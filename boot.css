@@ -1,0 +1,8 @@
+.card{
+    border: none;
+    margin: 5px;
+    padding: 4px;
+}
+.carousel-control-next,.carousel-control-prev  {
+    margin: -30px;
+}
